@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3300136 */
+  src: url('//at.alicdn.com/t/font_3300136_n777qroblkk.woff2?t=1648916089363') format('woff2'),
+       url('//at.alicdn.com/t/font_3300136_n777qroblkk.woff?t=1648916089363') format('woff'),
+       url('//at.alicdn.com/t/font_3300136_n777qroblkk.ttf?t=1648916089363') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 1.3em;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-QQ:before {
+  content: "\e882";
+}
+
+.icon-youxiang:before {
+  content: "\e64d";
+}
+
+.icon-QQ-circle-fill:before {
+  content: "\e887";
+}
+
+.icon-icon_bilibili:before {
+  content: "\e601";
+}
+
+.icon-csdn:before {
+  content: "\e600";
+}
+
+.icon-wechat:before {
+  content: "\e6ca";
+}
+
+.icon-github:before {
+  content: "\ea0b";
+}
+
+.icon-rss:before {
+  content: "\e747";
+}
+
+.icon-gitee:before {
+  content: "\e60c";
+}
+
+.icon-pink {
+  color: #FB7299;
+}
+
+.icon-blue {
+  color: #1296db;
+}
+
+.icon-csdn-style {
+  color: #fc5531;
+}
